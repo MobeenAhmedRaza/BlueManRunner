@@ -1,0 +1,4 @@
+Blue Man Runner is 2D Arcade and Adventure game made with unity3D,
+Where a player has to find home to finish the level and hit scores by collecting coins and dodging enemies.
+Filling the levels with joy and enchanting colors,
+The player gets excites with various levels techniques such as sliding, jumping, crouching, etc.
